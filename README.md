@@ -56,7 +56,7 @@ For Google Colab, the notebook includes installation commands.
 - **Cross-validation**: Mean accuracy across 5 folds
 
 #### Confusion Matrix
-![Confusion Matrix](images/image_8.png)
+![Confusion Matrix](images/image_6.png)
 
 #### Topographic Maps
 ![Topomap](images/image_9.png)
